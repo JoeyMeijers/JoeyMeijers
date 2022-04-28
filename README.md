@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @JoeyMeijers
 - 👀 I’m interested in SoftwareEngineering, DataScience
-- 🌱 I’m currently learning ML
-- 💞️ I’m looking to collaborate .. ?
 - 📫 How to reach me joeymeij@gmail.com
 
 <!---
